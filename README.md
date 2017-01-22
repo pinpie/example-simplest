@@ -3,6 +3,11 @@
 ## Description
 Here is the simplest possible [PinPIE](https://github.com/pinpie/pinpie) site: two pages, no config, but it works fine. Check it out!
 
+## Files
+- /index.php — an entry point
+- /pages/index.php — a page
+- /pages/about.php — another page
+
 ## Installation
 [Download](https://github.com/pinpie/example-simplest/archive/master.zip) or clone this example from this repo.
 
