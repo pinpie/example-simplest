@@ -1,0 +1,6 @@
+.svn
+.idea
+nbproject
+vendor
+composer.lock
+

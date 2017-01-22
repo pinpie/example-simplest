@@ -1,0 +1,5 @@
+{
+    "require": {
+        "pinpie/pinpie": "^1.0"
+    }
+}
